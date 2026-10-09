@@ -9,7 +9,8 @@ in a Python virtual environment. Makes use of the command line switches as
 well as the `pyvenv.cfg` file values present in the virtual environment.
 
 .Parameter VenvDir
-Path to the directory that contains the virtual environment to activate. The
+Path to the directory that contains the virtual environment to activate.
+The
 default value for this is the parent of the directory that the Activate.ps1
 script is located within.
 
